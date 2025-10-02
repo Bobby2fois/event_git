@@ -2,6 +2,6 @@
 
 int main()
 {
-    write(, "test\n", 5);
+    write(2, "test\n", 5);
     return 0;
 }
